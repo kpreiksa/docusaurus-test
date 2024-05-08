@@ -1,0 +1,8 @@
+{
+  "label": "Cool Pages",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Only the best pages in this version."
+  }
+}

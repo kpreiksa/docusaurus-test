@@ -2,7 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Documentation Intro
+
+This is the documentation for the starter version of the site.
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
